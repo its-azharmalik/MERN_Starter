@@ -1,9 +1,10 @@
 import React from 'react'
+import './Post.css'
 
 const Post = () => {
     return (
         <>
-            <img src='' alt='Post Photo' />
+            <img className='post-image' src='./Images/Pic1.png' alt='Post' />
         </>
     )
 }
