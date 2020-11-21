@@ -1,0 +1,10 @@
+.screen-management{
+    display: flex;
+    flex-direction: row;
+    background: #e2e2e2;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
