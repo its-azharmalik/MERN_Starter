@@ -1,9 +1,0 @@
-.posts{
-    margin: 2rem;
-    padding: 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    background: white;
-    width: 85vw;
-    z-index: 2;
-}
