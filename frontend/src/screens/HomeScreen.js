@@ -1,6 +1,5 @@
 import React from 'react'
 import './HomeScreen.css'
-import Posts from '../Components/Posts Components/Posts'
 import { Link } from 'react-router-dom'
 
 const HomeScreen = () => {
