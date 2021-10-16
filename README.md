@@ -1,6 +1,5 @@
-# social-app
-This is a simple social media application with CRUD functionality. Developed for practice by a bunch of students.
-
+# Starter Template
+This is a mern Starter Template.
 # Frontend
 
 # Backend
