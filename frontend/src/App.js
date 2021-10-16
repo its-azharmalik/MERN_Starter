@@ -4,7 +4,6 @@ import HomeScreen from './screens/HomeScreen'
 import './App.css'
 import Posts from './Components/Posts Components/Posts'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
-import UploadScreen from './screens/UploadScreen'
 
 
 
@@ -15,8 +14,6 @@ const App = () => {
             <Navbar />
             <div className='column'>
             <Route path='/' component={HomeScreen} exact /> 
-            <Route path='/postmemory' component={UploadScreen} />
-                <Posts />
             </div>
             </Router>
         </div>
